@@ -1,0 +1,3 @@
+'Bugs Bunny' 66 75
+'Daffy Duck' 62 72
+'Elmer Fudd' 63 73
